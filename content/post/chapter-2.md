@@ -1,21 +1,18 @@
 ---
-date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
-featured_image: ""
+date: 2017-04-10T15:00:59.000+00:00
+description: Pierre Gringoire
+featured_image: ''
 tags: []
-title: "Chapter II: Pierre Gringoire"
----
+title: 'Chapter II: Pierre Gringoire'
 
+---
 Nevertheless, as be harangued them, the satisfaction and admiration
 unanimously excited by his costume were dissipated by his words; and when
 he reached that untoward conclusion: “As soon as his illustrious eminence,
 the cardinal, arrives, we will begin,” his voice was drowned in a thunder
 of hooting.
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+“Begin instantly! Twehe mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!” yelped the scholar.
 
 “Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
 Poussepain and the other clerks perched in the window.
