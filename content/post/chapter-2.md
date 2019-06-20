@@ -12,7 +12,7 @@ he reached that untoward conclusion: “As soon as his illustrious eminence,
 the cardinal, arrives, we will begin,” his voice was drowned in a thunder
 of hooting.
 
-“Begin instantly! Twehe mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!” yelped the scholar.
+“Begin instantly! Twehe mystery! the mystery immediately!” shrieked the people. And adfbove all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!” yelped the scholar.
 
 “Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
 Poussepain and the other clerks perched in the window.
